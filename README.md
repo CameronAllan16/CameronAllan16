@@ -1,10 +1,11 @@
 #  Hi, I’m Cameron Allan 👋
- Hi, I'm Cameron, I am a developer with a knack for front-end development. I love solving problems, exploring data, and building cool stuff. Check out my projects an let's learn from each other
+ Hi, I'm Cameron, I am a developer with a knack for front-end development. I love solving problems, exploring data, and building cool stuff. Check out my projects and let's learn from each other
 
 ## Education
-- Studied Computer Science with a concentration in Web and Mobile Application Devlopment at Ball State University
+- Studied Computer Science with a concentration in Web and Mobile Application Devlopment at Ball State University in Muncie, IN
 
 ## What I do
+
 
 ## Tech Skills
 
